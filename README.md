@@ -27,3 +27,15 @@ This project builds and evaluates machine learning models to predict median hous
 - Converted columns to proper types
 
 - Scaled numerical features using StandardScaler
+
+#### Feature Engineering
+
+Created new features for better model performance:
+
+* LogMedInc — log-transformed median income
+
+* LogPopulation — log-transformed population
+
+* RegionBinary — encoded region as 0/1
+
+* Extracted geographical effects (latitude & longitude)
