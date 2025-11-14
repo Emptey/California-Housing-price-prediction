@@ -1,4 +1,4 @@
-## California Housing Price Prediction**
+## California Housing Price Prediction
 ### A Machine Learning Project using Random Forests
 
 ##### Overview
@@ -17,7 +17,7 @@ This project builds and evaluates machine learning models to predict median hous
 
 - How to interpret Random Forest feature importance
 
-#### Project Workflow**
+#### Project Workflow
 **Data Cleaning**
 
 - Handled missing values
