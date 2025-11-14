@@ -1,7 +1,7 @@
 ## California Housing Price Prediction
 ### A Machine Learning Project using Random Forests
 
-##### Overview
+#### Overview
 
 This project builds and evaluates machine learning models to predict median house prices in California using the classic California Housing dataset. It includes full data preprocessing, feature engineering, exploratory data analysis (EDA), and model evaluation.
 
